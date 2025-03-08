@@ -8,11 +8,9 @@ I am a **Full Stack developer** with a passion for creating innovative web apps 
   <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
   <img width="48" height="48" src="https://github.com/Birla13/Birla13/assets/88242631/0df5e6ac-8387-454e-ab05-edf02ff7f445" alt="node-js"/>
   <img width="48" height="48" src="https://img.icons8.com/office/48/react.png" alt="react"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
